@@ -74,6 +74,8 @@ GL_DONT_CARE - Steals Future code for a living, any code that he "writes" is dog
 
 iBikky - Australian who pastes oyvey for a living, say that his coords exploit is powerful and shit when its actually a dogshit Command.sendMessage from OyVey, paste github's bowbomb and said that he never paste shit. 
 
+K1llb0t_ / Eternity.cc  - :trollface:
+
 ---
 
 If you are on this list and come crying into the issue or pull requests tab, you're just proving your skid-ness (thats not even a word)
